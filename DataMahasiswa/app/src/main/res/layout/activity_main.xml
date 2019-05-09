@@ -86,6 +86,7 @@
                 android:text="@string/btn_hapus" />
 
             <android.support.v7.widget.RecyclerView
+                android:id="@+id/rvTampilData"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
